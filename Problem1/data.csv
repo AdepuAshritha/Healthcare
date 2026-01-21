@@ -1,0 +1,21 @@
+age,gender,num_diagnoses,num_procedures,avg_glucose,length_of_stay,previous_admissions,discharge_disposition,readmitted
+65,Male,5,2,180,7,3,Home,1
+45,Female,2,1,110,3,0,Home,0
+72,Male,7,3,200,10,4,Rehab,1
+30,Female,1,0,95,2,0,Home,0
+58,Male,4,2,150,6,2,Skilled Nursing,1
+67,Female,6,3,170,8,3,Home,1
+40,Male,2,1,120,4,1,Home,0
+55,Female,3,1,135,5,1,Home,0
+70,Male,8,4,210,11,5,Rehab,1
+33,Female,1,0,98,2,0,Home,0
+60,Male,5,2,160,7,2,Skilled Nursing,1
+48,Female,2,1,115,3,0,Home,0
+75,Male,9,4,220,12,6,Rehab,1
+28,Female,1,0,90,1,0,Home,0
+62,Male,6,3,175,8,3,Skilled Nursing,1
+50,Female,3,1,130,4,1,Home,0
+68,Male,7,3,190,9,4,Rehab,1
+35,Female,1,0,100,2,0,Home,0
+57,Male,4,2,145,6,2,Home,1
+42,Female,2,1,118,3,0,Home,0
