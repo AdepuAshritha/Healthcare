@@ -1,0 +1,20 @@
+Patient Name: Anil Kumar
+Age: 60
+Gender: Male
+Symptoms: Chest pain, breathlessness
+Diagnosis: Coronary Artery Disease
+Medications: Aspirin, Clopidogrel, Atorvastatin
+
+
+Patient Name: Sita Reddy
+Age: 48
+Gender: Female
+Complaints: Headache, nausea, dizziness
+Diagnosis: Migraine
+Medicines: Sumatriptan, Paracetamol
+
+
+The patient is a 65-year-old male with a history of diabetes and hypertension.
+He presented with chest pain and shortness of breath.
+He was started on Metformin 500 mg twice daily.
+The patient was discharged on 12 January 2024.
